@@ -6,13 +6,13 @@
 
 <div align="center">
   <br/>
-  <a href="LINK_LINKEDIN_KAMU">
+  <a href="https://www.linkedin.com/in/rendy-setiawan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:EMAIL_KAMU@GMAIL.COM">
+  <a href="mailto:srendy1717@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="LINK_WEBSITE_ATAU_PORTOFOLIO">
+  <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </div>
@@ -97,10 +97,10 @@
 <br/><br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=9f9f9f&icon_color=white" alt="Rendy's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=renstwn&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=9f9f9f&icon_color=white&v=1" alt="Rendy's Stats" />
   <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=transparent&hide_border=true&title_color=white&text_color=9f9f9f" />
+   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renstwn&layout=compact&theme=transparent&hide_border=true&title_color=white&text_color=9f9f9f&v=1" />
 </div>
 
 <br/>
